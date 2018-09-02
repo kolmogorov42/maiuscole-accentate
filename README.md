@@ -12,9 +12,9 @@ Su ogni tasto sono riportati 4 simboli:
 * in basso a destra il carattere ottenuto con **AltGr**, es: <kbd>AltGr</kbd>+<kbd>A</kbd>
 * in alto a destra il carattere ottenuto con la pressione simultanea di **Shift** e **AltGr**, es: <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>A</kbd>
 
-Inoltre, i simboli evidenziati di rosa sono detti *dead keys*: eseguendo la combinazione non appare nulla sullo schermo, ma il successivo carattere digitato verrà modificato opportunamente
+Inoltre, i simboli evidenziati in rosa sono detti *dead keys*: eseguendo la combinazione non appare nulla sullo schermo, ma il successivo carattere digitato verrà modificato opportunamente
 
-### Elenco dei dead keys:
+### Elenco dei dead keys
 
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>2</kbd>: **doppio accento acuto**. Esempio: Ő, ő, Ű, ű.
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>3</kbd>: **tilde**. Esempio: Ã, ñ.
