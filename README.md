@@ -34,6 +34,10 @@ Inoltre, i simboli evidenziati in rosa sono detti *dead keys*: eseguendo la comb
 Tenendo <kbd>CapsLock</kbd> attivo, è possibile digitare à, è, ì, ò, ù per ottenere le corrispondenti maisucole senza fare uso dei dead keys.
 Premendo inoltre <kbd>Shift</kbd>+<kbd>è</kbd> si può ottenere É.
 
+## Istruzioni
+
+È sufficiente scaricare la [release](releases/latest), decomprimerla e installare il layout eseguendo setup.exe.
+
 ## Sviluppo
 
 Tramite il tool [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=22339) della Microsoft è possibile importare e modificare il nostro sorgente ItaLinux.klc per produrre un nuovo layout.
