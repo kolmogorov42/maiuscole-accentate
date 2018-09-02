@@ -29,14 +29,14 @@ Inoltre, i simboli evidenziati in rosa sono detti *dead keys*: eseguendo la comb
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>.</kbd>: **dieresi**. Esempio: Ä, ö, ü.
 * <kbd>AltGr</kbd>+<kbd>-</kbd>: **vocale lunga** (o *macron*). Esempio: ā, Ē.
 
-### Caps Lock
+### Caps Lock per lettere accentate comuni
 
 Tenendo <kbd>CapsLock</kbd> attivo, è possibile digitare à, è, ì, ò, ù per ottenere le corrispondenti maisucole senza fare uso dei dead keys.
 Premendo inoltre <kbd>Shift</kbd>+<kbd>è</kbd> si può ottenere É.
 
 ## Istruzioni
 
-È sufficiente scaricare la [release](releases/latest), decomprimerla e installare il layout eseguendo setup.exe.
+È sufficiente scaricare la [release](https://github.com/kolmogorov42/maiuscole-accentate/releases), decomprimerla e installare il layout eseguendo setup.exe.
 
 ## Sviluppo
 
