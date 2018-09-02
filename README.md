@@ -4,7 +4,7 @@ Un layout di tastiera in lingua italiana per Windows che ricalca quello presente
 
 ## Schema
 
-[Schema riassuntivo tastiera Linux con dead keys](pics/LinuxDeadKeys.jpg?raw=true)
+![Schema riassuntivo tastiera Linux con dead keys](pics/LinuxDeadKeys.jpg?raw=true)
 
 Su ogni tasto sono riportati 4 simboli:
 * in basso a sinistra il carattere prodotto dal tasto senza modificatori, es: <kbd>A</kbd>
