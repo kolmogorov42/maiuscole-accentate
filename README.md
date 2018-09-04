@@ -31,7 +31,7 @@ Inoltre, i simboli evidenziati in rosa sono detti *dead keys*: eseguendo la comb
 
 ### Caps Lock per lettere accentate comuni
 
-Tenendo <kbd>CapsLock</kbd> attivo, è possibile digitare à, è, ì, ò, ù per ottenere le corrispondenti maisucole senza fare uso dei dead keys.
+Tenendo <kbd>CapsLock</kbd> attivo, è possibile digitare à, è, ì, ò, ù per ottenere le corrispondenti maiuscole senza fare uso dei dead keys.
 Premendo inoltre <kbd>Shift</kbd>+<kbd>è</kbd> si può ottenere É.
 
 ## Istruzioni
