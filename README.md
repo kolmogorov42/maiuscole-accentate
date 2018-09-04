@@ -12,9 +12,12 @@ Su ogni tasto sono riportati 4 simboli:
 * in basso a destra il carattere ottenuto con **AltGr**, es: <kbd>AltGr</kbd>+<kbd>A</kbd>
 * in alto a destra il carattere ottenuto con la pressione simultanea di **Shift** e **AltGr**, es: <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>A</kbd>
 
-Inoltre, i simboli evidenziati in rosa sono detti *dead keys*: eseguendo la combinazione non appare nulla sullo schermo, ma il successivo carattere digitato verrà modificato opportunamente
+Ogni combinazione valida sul consueto layout italiano di Windows è valida anche su questo e produce gli stessi simboli.
 
-### Elenco dei dead keys
+I simboli che nello schema non sono evidenziati corrispondono a caratteri che, come di consueto, vengono inviati al sistema non appena digitata la combinazione.
+Quelli evidenziati in rosa, invece, sono detti _dead keys_ e consentono di attivare alcuni  **modificatori** dei caratteri. Eseguire la combinazione non comporta l'invio di un carattere, ma il successivo simbolo digitato, se compatibile, verrà modificato opportunamente.
+
+### Elenco dei dead keys e relativi modificatori
 
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>2</kbd>: **doppio accento acuto**. Esempio: Ő, ő, Ű, ű.
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>3</kbd>: **tilde**. Esempio: Ã, ñ.
@@ -27,7 +30,7 @@ Inoltre, i simboli evidenziati in rosa sono detti *dead keys*: eseguendo la comb
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>ù</kbd>: **vocale breve**. Esempio: ă, Ŏ.
 * <kbd>AltGr</kbd>+<kbd>,</kbd>: **accento acuto**. Esempio: á, í, ú.
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>.</kbd>: **dieresi**. Esempio: Ä, ö, ü.
-* <kbd>AltGr</kbd>+<kbd>-</kbd>: **vocale lunga** (o *macron*). Esempio: ā, Ē.
+* <kbd>AltGr</kbd>+<kbd>-</kbd>: **vocale lunga** (o _macron_). Esempio: ā, Ē.
 
 ### Caps Lock per lettere accentate comuni
 
