@@ -43,4 +43,4 @@ Premendo inoltre <kbd>Shift</kbd>+<kbd>è</kbd> si può ottenere É.
 
 ## Sviluppo
 
-Tramite il tool [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=22339) della Microsoft è possibile importare e modificare il nostro sorgente ItaLinux.klc per produrre un nuovo layout.
+Tramite il tool [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) della Microsoft è possibile importare e modificare il nostro sorgente ItaLinux.klc per produrre un nuovo layout.
