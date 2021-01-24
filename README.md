@@ -4,7 +4,7 @@ Un layout di tastiera in lingua italiana per Windows che ricalca quello presente
 
 ## Schema
 
-![Schema riassuntivo tastiera Linux con dead keys](pics/LinuxDeadKeys.jpg?raw=true)
+![Schema riassuntivo tastiera Linux con dead keys](pics/layout.png?raw=true)
 
 Su ogni tasto sono riportati 4 simboli:
 * in basso a sinistra il carattere prodotto dal tasto senza modificatori, es: <kbd>A</kbd>
@@ -26,6 +26,7 @@ Quelli evidenziati in rosa, invece, sono detti _dead keys_ e consentono di attiv
 * <kbd>AltGr</kbd>+<kbd>J</kbd>: **hook**. Esempio: Ủ, ỏ.
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>J</kbd>: **horn**. Esempio: ư, ơ.
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>ò</kbd>: **cedilla**. Esempio: Ç.
+* <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>à</kbd>: **anello**. Esempio: å, Å.
 * <kbd>AltGr</kbd>+<kbd>ù</kbd>: **accento grave**. Esempio: Ỳ, È.
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>ù</kbd>: **vocale breve**. Esempio: ă, Ŏ.
 * <kbd>AltGr</kbd>+<kbd>,</kbd>: **accento acuto**. Esempio: á, í, ú.
